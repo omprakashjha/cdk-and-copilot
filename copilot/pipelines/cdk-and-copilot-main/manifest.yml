@@ -16,7 +16,7 @@ source:
   # Additional properties that further specify the location of the artifacts.
   properties:
     branch: main
-    repository: https://github.com/nathanpeck/cdk-and-copilot
+    repository: https://github.com/omprakashjha/cdk-and-copilot
     # Optional: specify the name of an existing CodeStar Connections connection.
     # connection_name: a-connection
 
